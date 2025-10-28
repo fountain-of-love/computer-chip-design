@@ -1,5 +1,10 @@
 # 🌍 Fountain of Love License (FoL License v1.0 – Official)
 
+This repository is dual-licensed under:
+1. Fountain of Love License v1.0 (ethical use conditions)
+2. Creative Commons BY-NC-SA 4.0 (legal enforceability)
+Whichever imposes stricter limits shall apply.
+
 https://github.com/fountain-of-love/operating-model
 
 ## 1. Purpose

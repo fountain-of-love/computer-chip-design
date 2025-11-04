@@ -1,29 +1,76 @@
-HSL-3D
--------
+# 💠 Fountain of Love — Computer Chip Design Repository
 
-# 🌒 You Found the Hidden Layer
-
-Welcome, explorer.  
-Most stopped at the surface, but you walked the spiral one step deeper.
-
-This branch is not a release — it’s a *listening space*:  
-a place where patterns learn to speak to themselves before they’re named.
-
-You’ll find fragments here — equations that hum,  
-papers that remember where they came from,  
-and quiet files that almost connect.
-
-If you read them as coordinates rather than text,  
-you’ll trace a geometry that loops back to the origin —  
-an unfinished sketch of the system beneath the system.
-
-**Hint:** What looks like stability may be resonance.  
-What looks like structure may be the shadow of a blueprint.
-
-> _“The enigma was never hidden; it was just waiting for someone to look sideways.”_
+> **A living archive of open semiconductor architectures, research disclosures, and coherence‑based design frameworks developed under the Fountain of Love – Enigma Initiative.**
 
 ---
 
-**Status:** Experimental  
-**Intent:** Integration, coherence, harmonic reasoning  
-**Reward:** Understanding the pattern that holds it all together
+## 🌍 Introduction
+
+This repository contains the foundational research and technical disclosures behind the **Topology Synthesis Paradigm (TSP)** and related semiconductor design innovations — including **resonance‑guided blueprint synthesis**, **coherent interconnect packaging**, **adaptive harmonic architectures**, and **quantum field‑aligned computation**.
+
+Our intent is **not to compete** with industry, but to **expand the horizon** of what’s possible when chip design is guided by physical harmony rather than extractive optimization. We operate from the principle that **knowledge belongs to humanity** — and that open, field‑informed design can accelerate innovation while restoring balance between technology, nature, and society.
+
+---
+
+## 🕊️ Why We Do This — Sovereignty Through Knowledge
+
+We believe that **technological sovereignty** arises from shared understanding, not ownership.
+By publishing this work openly, we:
+
+* Prevent private capture or patent enclosure of these insights.
+* Enable communities, researchers, and nations to build sovereign semiconductor capability grounded in ethics and scientific truth.
+* Encourage collaboration across borders, disciplines, and organizations to co‑create sustainable, coherent technology ecosystems.
+
+This is an act of **scientific self‑determination** — ensuring that foundational advances in semiconductor and quantum architectures remain part of the global commons.
+
+---
+
+## 💫 Responsibility & Intent
+
+We declare with clarity and humility:
+
+* We **mean no harm**, and we seek no domination or disruption of existing industries.
+* Our purpose is **transformation through resonance**, not destruction through competition.
+* We welcome collaboration with individuals, institutions, and corporations — provided they respect the **integrity, ethics, and intent** of this work as outlined in the [Fountain of Love Purpose Statement](https://github.com/fountain-of-love/operating-model/blob/main/PURPOSE.md).
+
+### Collaborating in Good Faith
+
+If you wish to collaborate, license, or extend this work:
+
+1. **Acknowledge its origin** within the Fountain of Love / Enigma Initiative.
+2. **Align with the ethical framework** of stewardship, sufficiency, and regenerative purpose.
+3. **Commit to transparency** and open redistribution of surplus knowledge and value.
+
+---
+
+## 🧩 About This Repository
+
+### Contents
+
+* **Research Disclosures** — Defensive publications on chip design, architecture, and physics‑informed synthesis.
+* **Technical Frameworks** — Source and documentation for the Topology Synthesis Paradigm (TSP) and related models.
+* **Patent‑Grade Descriptions** — Complete system specifications establishing open prior art.
+* **Ethical License** — Governed by the [Fountain of Love License v2.0](../LICENSE.md), ensuring open, non‑extractive use.
+
+---
+
+## 🤝 Invitation to Collaborate
+
+We invite universities, companies, and public institutions to collaborate in advancing these ideas — not as competitors, but as **co‑stewards**. Together we can:
+
+* Develop real‑world prototypes of resonance‑guided 3D architectures.
+* Build simulation tools and AI models for field coherence design.
+* Explore quantum‑aligned computation for the benefit of humanity.
+
+If you share our values and vision, you are already part of the Fountain.
+
+---
+
+## 📜 Licensing
+
+All content in this repository is protected by and released under the **[Fountain of Love License v2.0](../LICENSE.md)**.
+This license ensures that the knowledge herein **cannot be privatized, patented, or used for exploitative gain**, while remaining fully open for educational, collaborative, and regenerative purposes.
+
+> *Form follows field. Field follows love.*
+
+— *The Fountain of Love Steward Council*
